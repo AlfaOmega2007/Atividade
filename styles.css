@@ -1,0 +1,103 @@
+:root {
+    --cor-de-fundo: #180f4e;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: white;
+}
+
+.titulo {
+    font-size: 50px;
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.foto {
+    width: 20%;
+    border-radius: 20px;
+    box-shadow: rgba(46, 49, 240, 0.4) 5px 5px, rgba(46, 107, 240, 0.3) 10px 10px, rgba(46, 162, 240, 0.2) 15px 15px, rgba(82, 234, 240, 0.1) 20px 20px, rgba(141, 247, 247, 0.05) 25px 25px;
+}
+
+.sobre {
+    text-align: center;
+    font
+    .titulo-curiosidades {
+        font-size: 40px;
+        text-align: center;
+        color: #9b2f14;
+    }
+    
+    .curiosidades {
+        font-size: 20px;
+        margin: 100px;
+        color: #c24a65;
+    }
+    
+    .item-dois {
+        color: #e4718d;
+    }
+    
+    .item-tres {
+        color: #e78098;
+    }
+    
+    .item-quatro {
+        color: #eea5bc;
+    }
+    
+    .instagram {
+        font-size: 20px;
+        text-decoration: none;
+        color: white;
+    }
+    
+    .instagram:hover {
+        color:#a33a4e;
+    }
+    
+    .instagram-icone {
+        width: 30px;
+        margin-left: 900px;
+    }
+.titulo-curiosidades {
+    font-size: 40px;
+    text-align: center;
+    color: #9b2f14;
+}
+
+.curiosidades {
+    font-size: 20px;
+    margin: 100px;
+    color: #c24a65;
+}
+
+.item-dois {
+    color: #e4718d;
+}
+
+.item-tres {
+    color: #e78098;
+}
+
+.item-quatro {
+    color: #eea5bc;
+}
+
+.instagram {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.instagram:hover {
+    color:#a33a4e;
+}
+
+.instagram-icone {
+    width: 30px;
+    margin-left: 900px;
+}
