@@ -28,14 +28,18 @@ body {
 .titulo-curiosidades {
     font-size: 60px;
     text-align: center;
-    color: #9e0000;
+    color: #9b0404;
 }
 
 .curiosidades {
     font-size: 20px;
     margin: 100px;
-    color: #9e0909;
+    color: #9e0b0b;
 }
+
+.item-um {
+    color: #9e0202;
+} 
 
 .item-dois {
     color: #d11e1e;
